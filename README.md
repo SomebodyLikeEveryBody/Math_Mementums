@@ -11,3 +11,4 @@ Math Mementums. Just my way on the long math road so it might have mistakes.
 <img src="https://latex.codecogs.com/gif.latex?\rightarrow%20\%20\theta%20_M=" /> 
 <img src="https://latex.codecogs.com/gif.latex?\%20\%20\%20\%20\odot%20\%20\text{IF}\%20x_M=0\%20\rightarrow%20\%20\text{signOf}\left(y_M\right)\cdot%20\frac{\pi%20}{2}" />
 <img src="https://latex.codecogs.com/gif.latex?\%20\%20\%20\%20\odot%20\%20\text{IF}\%20x_M%3E0\%20\rightarrow%20\%20\operatorname{atan}\left(\frac{y_M}{x_M}\right)" />
+<img src="\ \ \ \ \odot \ \text{IF}\ x_M<0\ \rightarrow \ \operatorname{atan}\left(\frac{y_M}{x_M}\right)+\pi " />
