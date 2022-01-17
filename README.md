@@ -15,3 +15,8 @@ Math Mementums. Just my way on the long math road so it might have mistakes.
 <img src="https://latex.codecogs.com/gif.latex?\%20\%20\%20\%20\odot%20\%20\text{IF}\%20x_M%3E0\%20\rightarrow%20\%20\operatorname{atan}\left(\frac{y_M}{x_M}\right)" />
 <img src="https://latex.codecogs.com/gif.latex?\%20\%20\%20\%20\odot%20\%20\text{IF}\%20x_M%3C0\%20\rightarrow%20\%20\operatorname{atan}\left(\frac{y_M}{x_M}\right)+\pi" />
 <img src="https://latex.codecogs.com/gif.latex?\}" />
+
+---
+
+<img src="https://latex.codecogs.com/gif.latex?\left[_{c\%20d}^{a\%20b}\right]\cdot\left[_y^x\right]=\left[_{cx+dy}^{ax+by}\right]" />
+<img src="https://latex.codecogs.com/gif.latex?\left[_{0\%201}^{1\%200}\right]\cdot\left[_y^x\right]=\left[_y^x\right]\%20\Leftrightarrow%20T:\%20_{\vec{v}\%20\rightarrow\%20\left[_{0\%201}^{1\%200}\right]\vec{v}}^{\mathbb{R}^2\rightarrow\%20\mathbb{R}^2}\%20=\text{Id}:\%20_{\vec{v}\%20\rightarrow\%20\vec{v}}^{\mathbb{R}^2\rightarrow\%20\mathbb{R}^2}\%20" />
