@@ -2,4 +2,4 @@
 
 In production...
 
-<img src="https://latex.codecogs.com/gif.latex?\text{Let}\ x" />
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20x" />
