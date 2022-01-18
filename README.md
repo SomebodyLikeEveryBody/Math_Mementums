@@ -23,3 +23,10 @@ Math Mementums. Just my way on the long math road so it might have mistakes.
 <img src="https://latex.codecogs.com/gif.latex?\rightarrow\left[_{0\%201}^{1\%200}\right]\cdot\left[_{y_1\%20y_2\%20y_3\%20...\%20y_n}^{x_1\%20x_2\%20x_3\%20...\%20x_n}\right]\%20=\%20\left[_{y_1\%20y_2\%20y_3\%20...\%20y_n}^{x_1\%20x_2\%20x_3\%20...\%20x_n}\right]" />
 <img src="https://latex.codecogs.com/gif.latex?\left[_{1\%200}^{0\%201}\right]\cdot\left[_y^x\right]=\left[_x^y\right]" />
 <img src="https://latex.codecogs.com/gif.latex?\rightarrow\left[_{1\%200}^{0\%201}\right]\cdot\left[_{y_1\%20y_2\%20y_3\%20...\%20y_n}^{x_1\%20x_2\%20x_3\%20...\%20x_n}\right]\%20=\%20\left[_{x_1\%20x_2\%20x_3\%20...\%20x_n}^{y_1\%20y_2\%20y_3\%20...\%20y_n}\right]" />
+
+---
+
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20M_1\left(x_1,\%20y_1\right)_{\left(O,\%20\vec{e_x},\%20\vec{e_y}\right)}=M_1\left(r_1,\%20\theta_1\right)_{\left(O,\%20\vec{e_r},\%20\vec{e_{\theta}}\right)}" />
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20M_2\left(x_2,\%20y_2\right)_{\left(O,\%20\vec{e_x},\%20\vec{e_y}\right)}\%20=M_2\left(r_2,\%20\theta_2\right)_{\left(O,\%20\vec{e_r},\%20\vec{e_{\theta}}\right)}=\%20\text{M}1\%20\text{roted}\%20\text{by}\%20\theta" />
+<img src="https://latex.codecogs.com/gif.latex?\Rightarrow\theta_2=\theta_1+\theta" />
+
