@@ -30,3 +30,5 @@ Math Mementums. Just my way on the long math road so it might have mistakes.
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20M_2\left(x_2,\%20y_2\right)_{\left(O,\%20\vec{e_x},\%20\vec{e_y}\right)}\%20=M_2\left(r_2,\%20\theta_2\right)_{\left(O,\%20\vec{e_r},\%20\vec{e_{\theta}}\right)}=\%20\text{M}1\%20\text{roted}\%20\text{by}\%20\theta" />
 <img src="https://latex.codecogs.com/gif.latex?\Rightarrow\theta_2=\theta_1+\theta" />
 
+<img src="https://latex.codecogs.com/gif.latex?\text{so}\%20\text{we}\%20\text{have}\%20\left(x_2=x_1\cos\left(\theta\right)-y_1\sin\left(\theta\right)\right)\%20\wedge\%20\left(y_2=x_1\sin\left(\theta\right)+y_1\cos\left(\theta\right)\right)" />
+<img src="https://latex.codecogs.com/gif.latex?and\%20M_2=M_1\cdot\left[_{\sin\left(\theta\right);\%20\cos\left(\theta\right)}^{\cos\left(\theta\right);\%20-\sin\left(\theta\right)}\right]" />
