@@ -68,7 +68,7 @@ Elle est:
 
 ## Scalar multiplication (x) operator of matrix
 
-La fonction <img src="https://latex.codecogs.com/gif.latex?=\times\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?=\cdot\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> qui prend en argument un scalaire de K et une matrice de n x p sur K. *je vais faire dodo je continuerai demain bn
+La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?\cdot\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> qui prend en argument un scalaire de K et une matrice de n x p sur K. *je vais faire dodo je continuerai demain bn
 
 Elle est
 * associative
