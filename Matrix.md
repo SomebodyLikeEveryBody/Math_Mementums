@@ -54,12 +54,23 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_
 - les 2 matrices ont un nombre de colonnes identique
 - si les coefficients sont identiques un à un, c'est à dire si <img src="https://latex.codecogs.com/gif.latex?\forall\left(i,j\right)\in\left(\mathbb{N}^{\ast}\right)^2,\%20M_{1_{i,j}}=M_{2_{i,j}}" />
 
+* Elle est associative
+
 ## Plus (+) operator of matrix
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(M_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20M_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />, déjà ne fonctionne (n'est définie) que pour des **matrices de même taille**. Ca sert à rien d'additionner des matrices de tailles différentes avec cette fonction + ca ne marche pas.
 
 Elle renvoit une matrice dont chaque coeffient est égal à la somme des coefficients correspondants dans les matrices passées en argument, c'est à dire que la fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20M_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> renvoit une matrice <img src="https://latex.codecogs.com/gif.latex?A_{res}=\left(a_{i,j}=M_{1_{i,j}}+M_{2_{i,j}}\right)_{._{j\in\left[1,\%20b\right]}^{i\in\left[1,\%20a\right]}}" />
 
+Elle est:
+* associative
+* commutative
+
 ## Scalar multiplication (x) operator of matrix
 
-La fonction <img src="https://latex.codecogs.com/gif.latex?=\times\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" />
+La fonction <img src="https://latex.codecogs.com/gif.latex?=\times\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?=\cdot\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> qui prend en argument un scalaire de K et une matrice de n x p sur K. *je vais faire dodo je continuerai demain bn
+
+Elle est
+* associative
+* commutative
+* distributive sur le + matriciel
