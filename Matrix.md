@@ -28,6 +28,7 @@ Du coup on peut aussi déclarer une matrice n x p sur K en faisant (plus clair p
 
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_{n,\%20p}\left(\text{K}\right)" />
 
-Finalement, pour une matrice de n x p sur K, si on considère que chaque ligne est un ensemble ordonné d'éléments de K (c'est à dire un n-uplet d'éléments de K)
+Finalement, pour une matrice de n x p sur K, si on considère que chaque ligne est un ensemble ordonné de p éléments de K (c'est à dire un p-uplet d'éléments de K)
 alors chaque ligne d'une matrice est un élément de 
-<img src="https://latex.codecogs.com/gif.latex?\text{K}^p" />
+<img src="https://latex.codecogs.com/gif.latex?\text{K}^p" />.
+Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes), c'est à dire qu'on peut considérer que c'est un élément de <img src="https://latex.codecogs.com/gif.latex?\left(K^p\right)^n" />
