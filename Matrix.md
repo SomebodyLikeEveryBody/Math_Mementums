@@ -21,6 +21,7 @@ On peut la définir en la notant
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A=\left(a_{i,j}\in\text{K}\right)_{._{j\in\left[1,\%20p\right]_{\mathbb{N}}}^{i\in\left[1,\%20n\right]_{\mathbb{N}}}}" />
 
 Enfin, l'ensemble des matrices n x p qu'il est possible de constituer avec les éléments d'un corps K est noté
+
 <img src="https://latex.codecogs.com/gif.latex?M_{n,\%20p}\left(\text{K}\right)" />
 <img src="https://latex.codecogs.com/gif.latex?\left(\text{genre}\%20M_{2,\%203}\left(\mathbb{Q}\right)\%20\text{ou}\%20M_{2,\%201}\left(\mathbb{R}\right),\%20\text{etc}\right)" />
 
