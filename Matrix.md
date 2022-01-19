@@ -41,6 +41,11 @@ Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes)
 * Une matrice qui n'a qu'une seule colonne s'appelle une **matrice colonne**
 * Une matrice qui ne contient que des 0 s'appelle une **matrice nulle** (la matrice nulle <img src="https://latex.codecogs.com/gif.latex?N\in%20M_{n,p}\left(\text{K}\right)\%20" /> c'est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />)
 
+## Square matrix
+
+Une matrice est dite carrée si son nombre de lignes est égal à son nombre de colonnes (donc si n = p)
+
+Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" />
 
 ## Equal (=) operator of matrix
 
@@ -49,8 +54,6 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_
 - les 2 matrices ont un nombre de colonnes identique
 - si les coefficients sont identiques un à un, c'est à dire si <img src="https://latex.codecogs.com/gif.latex?\forall\left(i,j\right)\in\left(\mathbb{N}^{\ast}\right)^2,\%20M_{1_{i,j}}=M_{2_{i,j}}" />
 
-## Square matrix
+## Plus (+) operator of matrix
 
-Une matrice est dite carrée si son nombre de lignes est égal à son nombre de colonnes (donc si n = p)
-
-Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" />
+La fonction
