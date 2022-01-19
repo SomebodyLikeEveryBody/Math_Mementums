@@ -38,6 +38,7 @@ Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes)
 <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)=\left(K^p\right)^n" />
 
 Une matrice qui n'a qu'une seule ligne s'appelle une **matrice ligne**
+
 Une matrice qui n'a qu'une seule colonne s'appelle une **matrice colonne**
 
 
