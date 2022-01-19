@@ -43,3 +43,9 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_
 - les 2 matrices ont un nombre de lignes identique
 - les 2 matrices ont un nombre de colonnes identique
 - si les coefficients sont identiques un à un, c'est à dire si <img src="https://latex.codecogs.com/gif.latex?\forall\left(i,j\right)\in\left(\mathbb{N}^{\ast}\right)^2,\%20M_{1_{i,j}}=M_{2_{i,j}}" />
+
+## Square matrix
+
+Une matrice est dite carrée si son nombre de lignes est égal à son nombre de colonnes (donc si n = p)
+
+Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?a_{i,i}\%20" />
