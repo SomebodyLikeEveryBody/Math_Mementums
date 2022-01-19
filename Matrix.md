@@ -56,4 +56,4 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_
 
 ## Plus (+) operator of matrix
 
-La fonction
+La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(M_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20M_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />
