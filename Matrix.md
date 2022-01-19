@@ -28,6 +28,8 @@ Du coup on peut aussi déclarer une matrice n x p sur K en faisant (plus clair p
 
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_{n,\%20p}\left(\text{K}\right)" />
 
+et accéder aux coefficients avec la notation <img src="https://latex.codecogs.com/gif.latex?A_{i,j}\%20\left(\text{genre}\%20A_{2,3}\%20\text{pour}\%20\text{acceder}\%20\text{a}\%20\text{celui}\%20\text{ligne}\%202\%20\text{colonne}\%203\right)" />
+
 Finalement, pour une matrice de n x p sur K, si on considère que chaque ligne est un ensemble ordonné de p éléments de K (c'est à dire un p-uplet d'éléments de K)
 alors chaque ligne d'une matrice est un élément de 
 <img src="https://latex.codecogs.com/gif.latex?\text{K}^p" />.
@@ -37,4 +39,7 @@ Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes)
 
 ## Equal (=) operator of matrix
 
-La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_{n,p}\left(\text{K}\right)}}\%20,\%20M_{2_{\in%20M_{n,p}\left(\text{K}\right)}}\right)" />
+La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_{a_{\mathbb{N}^{\ast}},b_{\mathbb{N}^{\ast}}}\left(\text{K}_1\right)}}\%20,\%20M_{2_{\in%20M_{c_{\mathbb{N}^{\ast}},d_{\mathbb{N}^{\ast}}}\left(\text{K}_2\right)}}\right)" /> qui teste l'égalité de 2 matrices renvoit vrai si:
+- les 2 matrices ont un nombre de lignes identique
+- les 2 matrices ont un nombre de colonnes identique
+- si les coefficients sont identiques un à un, c'est à dire si <img src="https://latex.codecogs.com/gif.latex?\forall\left(i,j\right)\in\mathbb{R}^2,\%20M_{1_{i,j}}=M_{2_{i,j}}" />
