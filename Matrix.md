@@ -56,4 +56,6 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_
 
 ## Plus (+) operator of matrix
 
-La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(M_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20M_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />
+La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(M_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20M_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />, déjà ne fonctionne (n'est définie) que pour des **matrices de même taille**. Ca sert à rien d'additionner des matrices de tailles différentes avec cette fonction + ca ne marche pas.
+
+
