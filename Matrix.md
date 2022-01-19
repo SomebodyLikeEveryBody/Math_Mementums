@@ -8,3 +8,16 @@
 <img src="https://latex.codecogs.com/gif.latex?\left(\text{Genre}\%20\text{K}_{\mathbb{C}}=\left(\mathbb{C},\%20+,\%20\cdot\right),\%20\text{K}_{\mathbb{R}}=\left(\mathbb{R},\%20+,\%20\cdot\right),\%20\text{K}_{\mathbb{Q}}=\left(\mathbb{Q},\%20+,\%20\cdot\right),\%20...\right)" />
 
 <img src="https://latex.codecogs.com/gif.latex?\text{Une}\%20\text{matrice}\%20\text{est}\%20\text{un}\%20\text{tableau}\%20\text{rectangulaire}\%20\text{de}\%20n_{\in\mathbb{N}^{\ast}}\%20\text{lignes}\%20\text{sur}\%20\text{p}_{\in\mathbb{N}^{\ast}}\text{colonnes}\%20\text{contenant}\%20\text{des}\%20\text{elements}\%20\text{de}\%20\text{K}" />
+
+Chaque élément de K contenu dans la matrice est appelé un "coefficient de la matrice"
+
+Vu que pour définir (déclarer) une matrice, on a besoin de savoir
+- le type de coefficients qu'il y a dedans, c'est à dire l'ensemble d'appartenance des coefficients
+- le nombre de lignes, genre n de N*
+- le nombre de colonnes, genre p de N*
+
+On peut la définir en la notant
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20\left(a_{i,j}\in\text{K}\right)_{._{j\in\left[1,\%20p\right]_{\mathbb{N}}}^{i\in\left[1,\%20n\right]_{\mathbb{N}}}}" />
+
+
+
