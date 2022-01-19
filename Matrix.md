@@ -16,7 +16,7 @@ Vu que pour définir (déclarer) une matrice, on a besoin de savoir
 - le nombre de lignes, genre n de N*
 - le nombre de colonnes, genre p de N*
 
-On peut la définir en la notant (plus clair pour moi)
+On peut la définir en la notant
 
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A=\left(a_{i,j}\in\text{K}\right)_{._{j\in\left[1,\%20p\right]_{\mathbb{N}}}^{i\in\left[1,\%20n\right]_{\mathbb{N}}}}" />
 
@@ -25,7 +25,7 @@ Enfin, l'ensemble des matrices n x p qu'il est possible de constituer avec les �
 <img src="https://latex.codecogs.com/gif.latex?M_{n,\%20p}\left(\text{K}\right)" />
 <img src="https://latex.codecogs.com/gif.latex?\left(\text{genre}\%20M_{2,\%203}\left(\mathbb{Q}\right)\%20\text{ou}\%20M_{2,\%201}\left(\mathbb{R}\right),\%20\text{etc}\right)" />
 
-Du coup on peut aussi déclarer une matrice n x p sur K en faisant
+Du coup on peut aussi déclarer une matrice n x p sur K en faisant (plus clair pour moi)
 
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_{n,\%20p}\left(\text{K}\right)" />
 
