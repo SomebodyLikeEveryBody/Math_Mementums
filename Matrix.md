@@ -37,6 +37,10 @@ Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes)
 
 <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)=\left(K^p\right)^n" />
 
+Une matrice qui n'a qu'une seule ligne s'appelle une **matrice ligne**
+Une matrice qui n'a qu'une seule colonne s'appelle une **matrice colonne**
+
+
 ## Equal (=) operator of matrix
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_{a_{\mathbb{N}^{\ast}},b_{\mathbb{N}^{\ast}}}\left(\text{K}_1\right)}}\%20,\%20M_{2_{\in%20M_{c_{\mathbb{N}^{\ast}},d_{\mathbb{N}^{\ast}}}\left(\text{K}_2\right)}}\right)" /> qui teste l'égalité de 2 matrices renvoit vrai si:
