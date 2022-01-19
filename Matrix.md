@@ -39,7 +39,7 @@ Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes)
 
 * Une matrice qui n'a qu'une seule ligne s'appelle une **matrice ligne**
 * Une matrice qui n'a qu'une seule colonne s'appelle une **matrice colonne**
-* Une matrice qui ne contient que des 0 s'appelle une **matrice nulle**
+* Une matrice qui ne contient que des 0 s'appelle une **matrice nulle** (c'est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />)
 
 
 ## Equal (=) operator of matrix
