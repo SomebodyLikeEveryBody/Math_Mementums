@@ -28,7 +28,7 @@ Du coup on peut aussi déclarer une matrice n x p sur K en faisant (plus clair p
 
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_{n,\%20p}\left(\text{K}\right)" />
 
-et accéder aux coefficients avec la notation <img src="https://latex.codecogs.com/gif.latex?A_{i,j}\%20\left(\text{genre}\%20A_{2,3}\%20\text{pour}\%20\text{acceder}\%20\text{a}\%20\text{celui}\%20\text{ligne}\%202\%20\text{colonne}\%203\right)" />
+et accéder aux coefficients avec la notation <img src="https://latex.codecogs.com/gif.latex?A_{i,j}\%20" /> (genre <img src="https://latex.codecogs.com/gif.latex?A_{2,3}" /> pour accéder au coefficient de la ligne 2 colonne 3)
 
 Finalement, pour une matrice de n x p sur K, si on considère que chaque ligne est un ensemble ordonné de p éléments de K (c'est à dire un p-uplet d'éléments de K)
 alors chaque ligne d'une matrice est un élément de 
