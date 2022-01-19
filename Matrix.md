@@ -49,7 +49,7 @@ Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagona
 
 ## Equal (=) operator of matrix
 
-La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_{a_{\mathbb{N}^{\ast}},b_{\mathbb{N}^{\ast}}}\left(\text{K}_1\right)}}\%20,\%20M_{2_{\in%20M_{c_{\mathbb{N}^{\ast}},d_{\mathbb{N}^{\ast}}}\left(\text{K}_2\right)}}\right)" /> qui teste l'égalité de 2 matrices renvoit vrai si:
+La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20M_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> qui teste l'égalité de 2 matrices renvoit vrai si:
 - les 2 matrices ont un nombre de lignes identique
 - les 2 matrices ont un nombre de colonnes identique
 - si les coefficients sont identiques un à un, c'est à dire si <img src="https://latex.codecogs.com/gif.latex?\forall\left(i,j\right)\in\left(\mathbb{N}^{\ast}\right)^2,\%20M_{1_{i,j}}=M_{2_{i,j}}" />
