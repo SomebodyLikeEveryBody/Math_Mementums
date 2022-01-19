@@ -17,6 +17,7 @@ Vu que pour définir (déclarer) une matrice, on a besoin de savoir
 - le nombre de colonnes, genre p de N*
 
 On peut la définir en la notant
+
 <img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20\left(a_{i,j}\in\text{K}\right)_{._{j\in\left[1,\%20p\right]_{\mathbb{N}}}^{i\in\left[1,\%20n\right]_{\mathbb{N}}}}" />
 
 
