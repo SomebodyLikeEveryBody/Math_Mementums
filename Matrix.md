@@ -36,3 +36,5 @@ Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes)
 <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)=\left(K^p\right)^n" />
 
 ## Equal (=) operator of matrix
+
+La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_{n,p}\left(\text{K}\right)}}\%20,\%20M_{2_{\in%20M_{n,p}\left(\text{K}\right)}}\right)" />
