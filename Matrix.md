@@ -48,4 +48,4 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_
 
 Une matrice est dite carrée si son nombre de lignes est égal à son nombre de colonnes (donc si n = p)
 
-Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?a_{i,i}\%20" />
+Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" />
