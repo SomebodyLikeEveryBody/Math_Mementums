@@ -81,6 +81,6 @@ Elle est
 * distributive sur le + binaire matriciel
 
 
-## Minus (-) operator of matrix
+## Minus (-) nary operator of matrix
 
-La fonction <img src="https://latex.codecogs.com/gif.latex?-\left(M_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20M_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> qui prend 2 matrice pour les soustraire, c'est pareil elle ne fonctionne qu'avec 2 matrices **de même tailles**. 
+La fonction <img src="https://latex.codecogs.com/gif.latex?-\left(A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> qui prend 1 matrice pour retourner son "opposé", retourne tout simplement la matrice passée en argument multipliée par le scalaire -1, c'est à dire <img src="https://latex.codecogs.com/gif.latex?-1\cdot%20A" />
