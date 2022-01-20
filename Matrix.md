@@ -95,5 +95,7 @@ Du coup, <img src="https://latex.codecogs.com/gif.latex?A-A=A+\left(-1\cdot%20A\
 
 Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />,
 - l'opération <img src="https://latex.codecogs.com/gif.latex?+\left(A_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />, qui est une loi de composition interne, est associative
-- il y a un élément neutre qui est la matrice nulle de dimensions n x p
-- que toute matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" /> dispose dans <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> 
+- qu'il y a un élément neutre qui est la matrice nulle de dimensions n x p
+- que toute matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" /> dispose dans <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> d'une matrice <img src="https://latex.codecogs.com/gif.latex?A'\%20\%20|\%20\%20\left(A'=-A\right)" />
+
+-> le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" /> est donc **un groupe**
