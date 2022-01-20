@@ -98,7 +98,7 @@ Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex
 - qu'il y a un élément neutre qui est la matrice nulle de dimensions n x p
 - que toute matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" /> dispose dans <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> d'une matrice <img src="https://latex.codecogs.com/gif.latex?A'\%20\%20|\%20\%20\left(A'=-A\right)" />
 
--> le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" /> est donc **un groupe**
+-> le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" /> est donc **un groupe** (c'est même un groupe commutatif vu que le plus binaire matriciel est commutatif)
 
 ## Matrix multiplication (*) operator of matrix
 
