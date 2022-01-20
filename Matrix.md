@@ -54,7 +54,8 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(M_{1_{\in%20M_
 - les 2 matrices ont un nombre de colonnes identique
 - si les coefficients sont identiques un à un, c'est à dire si <img src="https://latex.codecogs.com/gif.latex?\forall\left(i,j\right)\in\left(\mathbb{N}^{\ast}\right)^2,\%20M_{1_{i,j}}=M_{2_{i,j}}" />
 
-* Elle est associative
+
+Cette fonction est associative
 
 ## Plus (+) operator of matrix
 
