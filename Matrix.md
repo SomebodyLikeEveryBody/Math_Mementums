@@ -57,7 +57,11 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?=\left(A_{1_{\in%20M_
 
 Cette fonction est associative
 
-## Plus (+) operator of matrix
+## Plus (+) unary operator of matrix
+
+La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> renvoit juste la matrice. C'est une fonction identité.
+
+## Plus (+) binary operator of matrix
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(A_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> qui prend 2 matrices pour les additionner, déjà ne fonctionne (n'est définie) que pour des **matrices de même taille**. Ca sert à rien d'additionner des matrices de tailles différentes avec cette fonction + ca ne marche pas.
 
