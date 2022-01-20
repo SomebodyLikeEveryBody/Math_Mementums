@@ -102,4 +102,5 @@ Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex
 
 ## Matrix multiplication (*) operator of matrix
 
-Alors c'est là que c'est le bordel.
+Alors c'est là que c'est le bordel, c'est là que ca casse un peu la tête.
+
