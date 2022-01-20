@@ -78,7 +78,7 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(\lambda_{
 Elle est
 * associative
 * commutative
-* distributive sur le + matriciel
+* distributive sur le + binaire matriciel
 
 
 ## Minus (-) operator of matrix
