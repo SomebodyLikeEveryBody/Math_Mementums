@@ -80,6 +80,10 @@ Elle est
 * commutative
 * distributive sur le + binaire matriciel
 
+* le réél 0 est un élément anulateur, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?0\times%20A=N" />
+* la matrice nulle est un élément anulateur, c'est a dire que <img src="https://latex.codecogs.com/gif.latex?k_{\in\mathbb{R}}\times%20N=N" />
+* 1 est l'élément neutre du magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20\cdot\right)=\left(M_{n,p}\left(\text{K}\right),\%20\times\right)" />, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,\%20p}\left(\text{K}\right),\%201\times%20A=A" />
+
 
 ## Minus (-) unary operator of matrix
 
