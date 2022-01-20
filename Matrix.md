@@ -99,3 +99,7 @@ Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex
 - que toute matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" /> dispose dans <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> d'une matrice <img src="https://latex.codecogs.com/gif.latex?A'\%20\%20|\%20\%20\left(A'=-A\right)" />
 
 -> le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" /> est donc **un groupe**
+
+## Matrix multiplication (*) operator of matrix
+
+Alors c'est là que c'est le bordel.
