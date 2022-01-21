@@ -114,11 +114,19 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(A_{1_{\in
 - la taille de colonnes de la 1ère matrice doit être égale à la taille de lignes de la 2e  matrice, c'est obligé sinon ca ne fonctionne pas. Ça sert à rien de vouloir multiplier 2 matrices dont la taille de colonne de la première n'est pas égale à la taille de ligne de la 2e, ça ne marche pas.
 
 La matrice retournée sera donc une matrice n x q sur K, dont chaque coefficient est généré comme suit:
-- on multiplie un à un chaque coefficient de la **1ère ligne de la 1ère matrice** par chaque coéfficient de la **1ère colonne de la 2e matrice**, et on somme chaque résultat ==> ça nous donne le coefficient (1, 1) de la matrice de retour
-- on multiplie un à un chaque coefficient de la **première ligne de la première matrice** par chaque coéfficient de la **2e colonne de la 2e matrice**, et on somme chaque résultat ==> ça nous donne le coefficient (1, 2) de la matrice de retour
+- on multiplie un à un chaque coefficient de la **1ère ligne de la 1ère matrice** par chaque coéfficient de la **1ère colonne de la 2e matrice**, et on somme chaque résultat &#8594; ça nous donne le coefficient (1, 1) de la matrice de retour
+- on multiplie un à un chaque coefficient de la **première ligne de la première matrice** par chaque coéfficient de la **2e colonne de la 2e matrice**, et on somme chaque résultat &#8594; ça nous donne le coefficient (1, 2) de la matrice de retour
 - ...
-- on multiplie un à un chaque coefficient de la **première ligne de la première matrice** par chaque coéfficient de la **n-ème colonne de la 2e matrice**, et on somme chaque résultat ==> ça nous donne le coefficient (1, n) de la matrice de retour
-- 
+- on multiplie un à un chaque coefficient de la **première ligne de la première matrice** par chaque coefficient de la **n-ième colonne de la 2e matrice**, et on somme chaque résultat ==> ça nous donne le coefficient (1, n) de la matrice de retour
+- &#8594; on a donc toute la première ligne de notre matrice de retour
+- On recommene la même chose avec la **2e ligne de la première matrice** &#8594; on a la 2e ligne de notre matrice de retour
+- On recommene la même chose avec la **3e ligne de la première matrice** &#8594; on a la 3e ligne de notre matrice de retour
+- ...
+- On recommene la même chose avec la **p-ième ligne de la première matrice** &#8594; on a la p-ième ligne de notre matrice de retour
+- &#8594; On a donc toute notre matrice de retour
+- On boit un coup parce qu'on a galéré comme jaja
+
+
 
 
 
