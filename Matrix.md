@@ -73,6 +73,10 @@ Elle renvoit une matrice dont chaque coeffient est égal à la somme des coeffic
 Elle est:
 * associative
 * commutative
+* la matrice nulle est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />
+
+
+
 
 ## Scalar multiplication (*) operator of matrix
 
@@ -144,6 +148,7 @@ ou
 &#8595;
 
 <img src="https://latex.codecogs.com/gif.latex?A_{res}=\left(a_{i,j}=\sum_{k=1}^p\left(A_{1_{i,k}}\cdot%20A_{2_{k,\%20j}}\right)\right)_{._{j\in\left[1,q\right]}^{i\in\left[1,n\right]}}" />
+
 
 
 
