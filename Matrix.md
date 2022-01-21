@@ -171,3 +171,25 @@ Formellement, on peut dire qu'une matrice identité d'un ensemble de matrices <i
 **Attention**, si une matrice I est une matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> **ça ne veut pas forcément dire** qu'elle-même appartient à  <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />**
 
 En réalité, une matrice identité est **forcément une matrice carrée**, dont tous les coefficients de la diagonale sont égal à 1 et dont tous les autres coefficients sont égal à 0.
+
+
+## Scalar power (^) operator of matrix
+
+La fonction <img src="https://latex.codecogs.com/gif.latex?\wedge\left(A_{\in%20M_{a_{\in\mathbb{N}^{\ast}},a}\left(\text{K}\right)},\%20\lambda_{\in\mathbb{N}}\right)" />  qui prend une et un entier naturel, déjà ne fonctionne (n'est définie) que pour des **matrices carrées**. Ca sert à rien de pow des matrices non carrés avec cette fonction ca ne marche pas.
+
+Cette fonction retourne <img src="https://latex.codecogs.com/gif.latex?A\times%20A\times%20A\times...\times%20A\%20=A^{\lambda}" /> (A multiplié par A, lambda fois)
+
+### Remarques:
+* <img src="https://latex.codecogs.com/gif.latex?A^0=I_n" />, la matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,n}\left(\text{K}\right)" />
+* <img src="https://latex.codecogs.com/gif.latex?\left(A_{\in%20M_{n,n}\left(\text{K}\right)}+B_{\in%20M_{n,n}\left(\text{K}\right)}\right)^2=A\%20^2+B^2+\left(A\cdot%20B\right)+\left(B\cdot%20A\right)" /> (car pour rappel, la fonction de multiplication matricielle n'est pas commutative)
+
+
+# Matrix commutation
+
+Quand on dit que 2 matrices A et B commutent, ça veut dire que <img src="https://latex.codecogs.com/gif.latex?\left(A\cdot%20B\right)=\left(B\cdot%20A\right)" />, c'est à dire que **pour ces 2 matrices en particulier**, la fonction de multiplication matricielle est commutative.
+
+Dans ce cas, on peut avoir une adaptation de la formule du binôme de Newton à ces matrices, avec
+
+<img src="https://latex.codecogs.com/gif.latex?\left(A+B\right)^{\lambda}=\sum_{k=0}^{\lambda}\left(A^k\cdot%20B^{\left(\lambda-k\right)}\right)=\sum_{k=0}^{\lambda}\left(B^k\cdot%20A^{\left(\lambda-k\right)}\right)" />
+
+
