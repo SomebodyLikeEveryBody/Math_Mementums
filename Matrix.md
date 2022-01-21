@@ -150,5 +150,6 @@ ou
 <img src="https://latex.codecogs.com/gif.latex?A_{res}=\left(a_{i,j}=\sum_{k=1}^p\left(A_{1_{i,k}}\cdot%20A_{2_{k,\%20j}}\right)\right)_{._{j\in\left[1,q\right]}^{i\in\left[1,n\right]}}" />
 
 
-
-
+Remarques sur la multiplication matricielle:
+- elle n'est pas commutative
+- si on prend 2 vecteurs, genre <img src="https://latex.codecogs.com/gif.latex?\vec{u}" /> et <img src="https://latex.codecogs.com/gif.latex?\vec{v}" />, et qu'on fait leur produit scalaire (c'est à dire <img src="https://latex.codecogs.com/gif.latex?\vec{u}\cdot\vec{v}=\left|\vec{u}\right|\cdot\left|\vec{v}\right|\cdot\cos\left(\vec{u},\vec{v}\right)=u_x\cdot%20v_x+u_y\cdot%20v_y" />), finalement ça revient à prendre le vecteur <img src="https://latex.codecogs.com/gif.latex?\vec{u}" /> et à le caster en une matrice ligne <img src="https://latex.codecogs.com/gif.latex?M_{\vec{u}}=\left[u_x\%20;\%20u_y\right]" />, prendre le vecteur <img src="https://latex.codecogs.com/gif.latex?\vec{v}" /> et à le caster en un matrice colonne <img src="https://latex.codecogs.com/gif.latex?M_{\vec{v}}=\left[_{v_y}^{v_x}\right]" />, et enfin à faire un produit des 2 matrices <img src="https://latex.codecogs.com/gif.latex?M_{\vec{u}}\cdot%20M_{\vec{v}}=u_x\cdot%20v_x+u_y\cdot%20v_y=\vec{u}\cdot\vec{v}" />.
