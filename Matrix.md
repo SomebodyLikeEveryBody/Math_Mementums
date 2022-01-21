@@ -168,4 +168,4 @@ Les matrices identités d'un ensemble de matrices <img src="https://latex.codeco
 
 Formellement, on peut dire qu'une matrice identité d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> c'est une matrice <img src="https://latex.codecogs.com/gif.latex?I\%20\%20|\%20\%20\left(\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(I\cdot%20A=A\%20\vee\%20A\cdot%20I=A\%20\right)\%20\right)" />
 
-**Attention**, si une matrice I est une matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> **ça ne veut pas forcément dire qu'elle-même appartient à  <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />**
+**Attention**, si une matrice I est une matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> **ça ne veut pas forcément dire** qu'elle-même appartient à  <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />**
