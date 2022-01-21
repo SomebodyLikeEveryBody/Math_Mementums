@@ -113,5 +113,12 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(A_{1_{\in
 - cette fonction n'est **pas commutative**
 - la taille de colonnes de la 1ère matrice doit être égale à la taille de lignes de la 2e  matrice, c'est obligé sinon ca ne fonctionne pas. Ça sert à rien de vouloir multiplier 2 matrices dont la taille de colonne de la première n'est pas égale à la taille de ligne de la 2e, ça ne marche pas.
 
+La matrice retournée sera donc une matrice n x q sur K, dont chaque coefficient est généré comme suit:
+- on multiplie un à un chaque coefficient de la **1ère ligne de la 1ère matrice** par chaque coéfficient de la **1ère colonne de la 2e matrice**, et on somme chaque résultat ==> ça nous donne le coefficient (1, 1) de la matrice de retour
+- on multiplie un à un chaque coefficient de la **première ligne de la première matrice** par chaque coéfficient de la **2e colonne de la 2e matrice**, et on somme chaque résultat ==> ça nous donne le coefficient (1, 2) de la matrice de retour
+- ...
+- on multiplie un à un chaque coefficient de la **première ligne de la première matrice** par chaque coéfficient de la **n-ème colonne de la 2e matrice**, et on somme chaque résultat ==> ça nous donne le coefficient (1, n) de la matrice de retour
+- 
+
 
 
