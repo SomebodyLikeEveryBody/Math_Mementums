@@ -38,8 +38,7 @@ De la même manière, si on raisonne suivant le point de vue où chaque colonne 
 alors chaque colonne d'une matrice est un élément de 
 <img src="https://latex.codecogs.com/gif.latex?\text{K}^n" />. Du coup, une matrice c'est un ensemble ordonné de colonnes (un p-uplet de colonnes), c'est à dire qu'on peut considérer que c'est un élément de <img src="https://latex.codecogs.com/gif.latex?\left(K^n\right)^p" />.
 
-
-<img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)=\left(K^p\right)^n" />
+<img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)\sim\left(\text{K}^p\right)^n\sim\left(\text{K}^n\right)^p" />
 
 * Une matrice qui n'a qu'une seule ligne s'appelle une **matrice ligne**
 * Une matrice qui n'a qu'une seule colonne s'appelle une **matrice colonne**
