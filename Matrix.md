@@ -73,7 +73,7 @@ Elle renvoit une matrice dont chaque coeffient est égal à la somme des coeffic
 Elle est:
 * associative
 * commutative
-* la matrice nulle est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />
+* la matrice nulle est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{a,b}\left(\text{K}\right),\%20+\right)" />
 
 
 
