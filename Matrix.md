@@ -42,7 +42,7 @@ alors chaque colonne d'une matrice est un élément de
 
 * Une matrice qui n'a qu'une seule ligne s'appelle une **matrice ligne**
 * Une matrice qui n'a qu'une seule colonne s'appelle une **matrice colonne**
-* Une matrice qui ne contient que des 0 s'appelle une **matrice nulle** (la matrice nulle <img src="https://latex.codecogs.com/gif.latex?N\in%20M_{n,p}\left(\text{K}\right)\%20" /> c'est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />)
+* Une matrice qui ne contient que des 0 s'appelle une **matrice nulle** (la matrice nulle <img src="https://latex.codecogs.com/gif.latex?N\in%20M_{n,p}\left(\text{K}\right)\%20" /> c'est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />). On peut noter la matrice nulle de taille n x p sur un corps K, <img src="https://latex.codecogs.com/gif.latex?N_{n,p,\text{K}}" />, et on peut définir une fonction <img src="https://latex.codecogs.com/gif.latex?N_{\varnothing}\left(M_{n,p}\left(\text{K}\right)\right)" /> qui retourne la matrice nulle de l'ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />.
 
 ## Square matrix
 
