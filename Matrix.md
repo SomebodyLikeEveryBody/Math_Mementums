@@ -109,5 +109,9 @@ Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex
 
 ## Matrix multiplication (*) operator of matrix
 
-La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?\cdot\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />
+La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?\cdot\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> est une fonction qui prend en argument **une matrice n x p sur K**, et **une matrice p x q sur K**, et retourne **une matrice n x q sur K**. Ca veut dire que: 
+- cette fonction n'est **pas commutative**
+- la taille de colonnes de la 1ère matrice doit être égale à la taille de lignes de la 2e  matrice, c'est obligé sinon ca ne fonctionne pas. Ça sert à rien de vouloir multiplier 2 matrices dont la taille de colonne de la première n'est pas égale à la taille de ligne de la 2e, ça ne marche pas.
+
+
 
