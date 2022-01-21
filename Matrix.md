@@ -165,3 +165,5 @@ ou
 ### Remarque sur les matrices identités:
 
 Les matrices identités d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />, sont les matrices telles que si on les multiplie par n'importe quelle matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" />, l'opération retourne <img src="https://latex.codecogs.com/gif.latex?A" />.
+
+Formellement, on peut dire qu'une matrice identité c'est une matrice <img src="https://latex.codecogs.com/gif.latex?I\%20\%20|\%20\%20\left(\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(I\cdot%20A=A\%20\vee\%20A\cdot%20I=A\%20\right)\%20\right)" />
