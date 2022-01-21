@@ -193,4 +193,4 @@ Dans ce cas, on peut avoir une adaptation de la formule du binôme de Newton à 
 
 <img src="https://latex.codecogs.com/gif.latex?\left(A+B\right)^{\lambda}=\sum_{k=0}^{\lambda}\left(A^k\cdot%20B^{\left(\lambda-k\right)}\right)=\sum_{k=0}^{\lambda}\left(B^k\cdot%20A^{\left(\lambda-k\right)}\right)" />
 
-
+Du coup, une matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,n}\left(\text{K}\right)" /> (ensemble de matrices carrées) commute avec n'importe quelle matrice carrée de l'ensemble <img src="https://latex.codecogs.com/gif.latex?M_{n,n}\left(\text{K}\right)" />
