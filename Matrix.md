@@ -109,5 +109,5 @@ Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex
 
 ## Matrix multiplication (*) operator of matrix
 
-Alors c'est là que c'est le bordel, c'est là que ca casse un peu la tête.
+La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?\cdot\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />
 
