@@ -154,7 +154,7 @@ ou
 - elle n'est pas commutative
 - elle est distributive sur le + binaire matriciel (comme l'est l'opérateur scalaire de multiplication matriciel)
 - la matrice nulle est un élément annulateur, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?A_{\in%20M_{n,p}\left(\text{K}\right)}\cdot%20N=N" />
-- La **matrice identité** <img src="https://latex.codecogs.com/gif.latex?I_n\in%20M_{n,n}\left(\text{K}\right)" /> est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20\times\right)=\left(M_{n,p}\left(\text{K}\right),\%20\cdot\right)" />. C'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(I_n\cdot%20A\right)=A" />.
+- La **matrice identité** <img src="https://latex.codecogs.com/gif.latex?I_n\in%20M_{n,n}\left(\text{K}\right)" /> est l'élément neutre du magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20\times\right)=\left(M_{n,p}\left(\text{K}\right),\%20\cdot\right)" />. C'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(I_n\cdot%20A\right)=A" />.
 
 - La **matrice identité** <img src="https://latex.codecogs.com/gif.latex?I_p\in%20M_{p,p}\left(\text{K}\right)" /> est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20\times\right)=\left(M_{n,p}\left(\text{K}\right),\%20\cdot\right)" />. C'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(A\cdot%20I_p\right)=A" />.
 
@@ -169,3 +169,5 @@ Les matrices identités d'un ensemble de matrices <img src="https://latex.codeco
 Formellement, on peut dire qu'une matrice identité d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> c'est une matrice <img src="https://latex.codecogs.com/gif.latex?I\%20\%20|\%20\%20\left(\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(\left(I\cdot%20A=A\right)\%20\vee\%20\left(A\cdot%20I=A\right)\right)\right)" />
 
 **Attention**, si une matrice I est une matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> **ça ne veut pas forcément dire** qu'elle-même appartient à  <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />**
+
+En réalité, une matrice identité est **forcément une matrice carrée**, dont tous les coefficients de la diagonale sont égal à 1 et dont tous les autres coefficients sont égal à 0.
