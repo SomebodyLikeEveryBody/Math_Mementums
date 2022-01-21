@@ -36,9 +36,7 @@ Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes)
 
 De la même manière, si on raisonne suivant le point de vue où chaque colonne est un ensemble ordonné de n éléments de K (c'est à dire un n-uplet d'éléments de K),
 alors chaque colonne d'une matrice est un élément de 
-<img src="https://latex.codecogs.com/gif.latex?\text{K}^n" />.
-
-Du coup, une matrice c'est un ensemble ordonné de colonnes (un p-uplet de colonnes), c'est à dire qu'on peut considérer que c'est un élément de <img src="https://latex.codecogs.com/gif.latex?\left(K^n\right)^p" />.
+<img src="https://latex.codecogs.com/gif.latex?\text{K}^n" />. Du coup, une matrice c'est un ensemble ordonné de colonnes (un p-uplet de colonnes), c'est à dire qu'on peut considérer que c'est un élément de <img src="https://latex.codecogs.com/gif.latex?\left(K^n\right)^p" />.
 
 
 <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)=\left(K^p\right)^n" />
