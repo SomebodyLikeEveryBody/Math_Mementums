@@ -166,6 +166,6 @@ ou
 
 Les matrices identités d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />, sont les matrices telles que si on les multiplie par n'importe quelle matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" />, l'opération retourne <img src="https://latex.codecogs.com/gif.latex?A" />.
 
-Formellement, on peut dire qu'une matrice identité d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> c'est une matrice <img src="https://latex.codecogs.com/gif.latex?I\%20\%20|\%20\%20\left(\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(\left(I\cdot%20A=A\right)\%20\vee\%20\left(A\cdot%20I=A\right)\%20\right)\%20\right)" />
+Formellement, on peut dire qu'une matrice identité d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> c'est une matrice <img src="https://latex.codecogs.com/gif.latex?I\%20\%20|\%20\%20\left(\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(\left(I\cdot%20A=A\right)\%20\vee\%20\left(A\cdot%20I=A\right)\right)\right)" />
 
 **Attention**, si une matrice I est une matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> **ça ne veut pas forcément dire** qu'elle-même appartient à  <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />**
