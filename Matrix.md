@@ -88,8 +88,8 @@ Elle est
 * distributive sur le + binaire matriciel
 
 
-* le réél 0 est un élément anulateur, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?0\times%20A=N" />
-* la matrice nulle est un élément anulateur, c'est a dire que <img src="https://latex.codecogs.com/gif.latex?k_{\in\mathbb{R}}\times%20N=N" />
+* le réél 0 est un élément annulateur, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?0\times%20A=N" />
+* la matrice nulle est un élément annulateur, c'est a dire que <img src="https://latex.codecogs.com/gif.latex?k_{\in\mathbb{R}}\times%20N=N" />
 * 1 est l'élément neutre du magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20\cdot\right)=\left(M_{n,p}\left(\text{K}\right),\%20\times\right)" />, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,\%20p}\left(\text{K}\right),\%201\times%20A=A" />
 
 <je sais pas si c'est un groupe>
@@ -153,5 +153,6 @@ ou
 Remarques sur la multiplication matricielle:
 - elle n'est pas commutative
 - elle est distributive sur le + binaire matriciel (comme l'opérateur scalaire de multiplication matriciel)
+- la matrice nulle est un élément annulateur, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?A_{\in%20M_{n,p}\left(\text{K}\right)}\cdot%20N=N" />
 - si on prend 2 vecteurs de dimension <img src="https://latex.codecogs.com/gif.latex?n_{\in\mathbb{N}^{\ast}}" />, par exemple <img src="https://latex.codecogs.com/gif.latex?\vec{u}=\left(u_{x_{\in\mathbb{R}}},u_{y_{\in\mathbb{R}}}\right)_{\left(O,\%20\vec{e_x},\vec{e_y}\right)}" /> et <img src="https://latex.codecogs.com/gif.latex?\vec{v}=\left(v_{x_{\in\mathbb{R}}},v_{y_{\in\mathbb{R}}}\right)_{\left(O,\%20\vec{e_x},\vec{e_y}\right)}" /> qui seraient 2 vecteurs de dimension 2, et qu'on fait leur produit scalaire (c'est à dire <img src="https://latex.codecogs.com/gif.latex?\vec{u}\cdot\vec{v}=\left|\vec{u}\right|\cdot\left|\vec{v}\right|\cdot\cos\left(\vec{u},\vec{v}\right)=u_x\cdot%20v_x+u_y\cdot%20v_y" />), finalement ça revient à prendre le vecteur <img src="https://latex.codecogs.com/gif.latex?\vec{u}" /> et à le caster en une matrice ligne <img src="https://latex.codecogs.com/gif.latex?M_{\vec{u}}=\left[u_x\%20;\%20u_y\right]" />, prendre le vecteur <img src="https://latex.codecogs.com/gif.latex?\vec{v}" /> et à le caster en un matrice colonne <img src="https://latex.codecogs.com/gif.latex?M_{\vec{v}}=\left[_{v_y}^{v_x}\right]" />, et enfin à faire un produit des 2 matrices <img src="https://latex.codecogs.com/gif.latex?M_{\vec{u}}\cdot%20M_{\vec{v}}=u_x\cdot%20v_x+u_y\cdot%20v_y=\vec{u}\cdot\vec{v}" />.
 - Le fait que le produit de 2 matrices donne la matrice nulle **NE SIGNIFIE PAS** que l'une des 2 matrices est la matrice nulle (on ne peut pas faire d'analogie avec les rééls où quand on a (ab = 0), alors (a=0 ou b=0) ). Il y a masse contres-exemples où 2 matrices non nulles qu'on multiplie entre elles donne une matrice nulle.
