@@ -152,7 +152,7 @@ ou
 
 Remarques sur la multiplication matricielle:
 - elle n'est pas commutative
-- elle est distributive sur le + binaire matriciel (comme l'opérateur scalaire de multiplication matriciel)
+- elle est distributive sur le + binaire matriciel (comme l'est l'opérateur scalaire de multiplication matriciel)
 - la matrice nulle est un élément annulateur, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?A_{\in%20M_{n,p}\left(\text{K}\right)}\cdot%20N=N" />
 - La **matrice identité** <img src="https://latex.codecogs.com/gif.latex?I_n\in%20M_{n,n}\left(\text{K}\right)" /> est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20\times\right)=\left(M_{n,p}\left(\text{K}\right),\%20\cdot\right)" />. C'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,p}\left(\text{K}\right),\%20\left(I_n\cdot%20A\right)=A" />.
 
