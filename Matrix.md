@@ -30,10 +30,16 @@ Du coup on peut aussi déclarer une matrice n x p sur K en faisant (plus clair p
 
 et accéder aux coefficients avec la notation <img src="https://latex.codecogs.com/gif.latex?A_{i,j}\%20" /> (genre <img src="https://latex.codecogs.com/gif.latex?A_{2,3}" /> pour accéder au coefficient de la ligne 2 colonne 3)
 
-Finalement, pour une matrice de n x p sur K, si on considère que chaque ligne est un ensemble ordonné de p éléments de K (c'est à dire un p-uplet d'éléments de K)
-alors chaque ligne d'une matrice est un élément de 
+Finalement, pour une matrice de n x p sur K, si on considère que chaque ligne est un ensemble ordonné de p éléments de K (c'est à dire un p-uplet d'éléments de K), alors chaque ligne d'une matrice est un élément de 
 <img src="https://latex.codecogs.com/gif.latex?\text{K}^p" />.
-Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes), c'est à dire qu'on peut considérer que c'est un élément de <img src="https://latex.codecogs.com/gif.latex?\left(K^p\right)^n" />
+Du coup, une matrice c'est un ensemble ordonné de lignes (un n-uplet de lignes), c'est à dire qu'on peut considérer que c'est un élément de <img src="https://latex.codecogs.com/gif.latex?\left(K^p\right)^n" />.
+
+De la même manière, si on raisonne suivant le point de vue où chaque colonne est un ensemble ordonné de n éléments de K (c'est à dire un n-uplet d'éléments de K),
+alors chaque colonne d'une matrice est un élément de 
+<img src="https://latex.codecogs.com/gif.latex?\text{K}^n" />.
+
+Du coup, une matrice c'est un ensemble ordonné de colonnes (un p-uplet de colonnes), c'est à dire qu'on peut considérer que c'est un élément de <img src="https://latex.codecogs.com/gif.latex?\left(K^n\right)^p" />.
+
 
 <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)=\left(K^p\right)^n" />
 
