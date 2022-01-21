@@ -164,4 +164,4 @@ Remarques sur la multiplication matricielle:
 
 ### Remarque sur les matrices identités:
 
-Les matrices identités d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> sont des matrices telles que si on les multiplie 
+Les matrices identités d'un ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />, sont les matrices telles que si on les multiplie par n'importe quelle matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" />, l'opération retourne <img src="https://latex.codecogs.com/gif.latex?A" />.
