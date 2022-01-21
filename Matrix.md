@@ -126,6 +126,7 @@ La matrice retournée sera donc une matrice n x q sur K, dont chaque coefficient
 - &#8594; On a donc toute notre matrice de retour
 - On boit un coup parce qu'on a galéré comme jaja
 
+
 En gros, formellement, la matrice de retour c'est la matrice
 
 <img src="https://latex.codecogs.com/gif.latex?A_{res}=\left(a_{i,j}=\sum_{k=1}^p\left(A_{1_{i,k}}\cdot%20A_{2_{k,\%20j}}\right)\right)_{._{j\in\left[1,q\right]}^{i\in\left[1,n\right]}}" />
