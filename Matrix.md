@@ -48,7 +48,7 @@ alors chaque colonne d'une matrice est un élément de
 
 Une matrice est dite carrée si son nombre de lignes est égal à son nombre de colonnes (donc si n = p)
 
-Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" /> c'est à dire, formellement, <img src="https://latex.codecogs.com/gif.latex?\left\{A_{i,j}\%20\%20\left|\%20\%20i=j\right|\right\}" />
+Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" /> c'est à dire, formellement, <img src="https://latex.codecogs.com/gif.latex?\left\{A_{i,j}\%20\%20|\%20\%20i=j\right\}" />
 
 ## Equal (=) operator of matrix
 
