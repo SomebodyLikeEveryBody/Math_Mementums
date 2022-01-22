@@ -64,6 +64,8 @@ Cette fonction est associative
 
 ## Plus (+) unary operator of matrix
 
+<img src="https://latex.codecogs.com/gif.latex?+:_{\%20\%20\%20\%20\%20\%20\%20\%20A\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\%20\%20\%20\%20\%20\%20\%20A}^{M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20}" />
+
 La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> renvoit juste la matrice. C'est une fonction identité.
 
 ## Plus (+) binary operator of matrix
