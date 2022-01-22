@@ -74,7 +74,7 @@ La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(A_{\in%20M_{n_
 
 ## Plus (+) binary operator of matrix
 
-<img src="https://latex.codecogs.com/gif.latex?+:_{\%20\%20\%20\%20\%20\%20\left(A_1,A_2\right)\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\%20A_{res}=\left(a_{i,j}=A_{1_{i,j}}+A_{2_{i,j}}\right)_{._{j\in\left[1,p\right]}^{i\in\left[1,n\right]}}}^{\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right)^2\%20\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20}" />
+<img src="https://latex.codecogs.com/gif.latex?\times\%20or\%20\cdot:_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(\lambda,\%20A\right)\%20\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20A_{res}=\left(a_{i,j}=k\cdot%20A_{i,j}\right)_{._{\in\left[1,n\right]}^{i\in\left[1,n\right]}}}^{\left(\%20\text{K}\%20\times\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right)\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}" />
 
 ---
 
