@@ -111,6 +111,10 @@ Elle est
 
 ## Minus (-) unary operator of matrix
 
+<img src="https://latex.codecogs.com/gif.latex?-:_{\%20\%20\%20\%20\%20\%20\%20\%20A\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\%20\%20\%20\left(-1\right)\cdot%20A}^{M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}" />
+
+---
+
 La fonction <img src="https://latex.codecogs.com/gif.latex?-\left(A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> qui prend 1 matrice pour retourner son "opposé", retourne tout simplement la matrice passée en argument multipliée par le scalaire -1, c'est à dire <img src="https://latex.codecogs.com/gif.latex?-1\cdot%20A" />
 
 Du coup, toute matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{n,p}\left(\text{K}\right)" /> a une matrice <img src="https://latex.codecogs.com/gif.latex?A'\in%20M_{n,p}\left(\text{K}\right)\%20\%20|\%20\%20A'=-A" /> (tu vois venir le truc, on va y revenir plus tard mais yes le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" /> est un groupe)
