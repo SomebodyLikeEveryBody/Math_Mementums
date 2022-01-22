@@ -104,11 +104,12 @@ Elle est
 * distributive sur le + binaire matriciel
 
 
-* l'élément neutre <img src="https://latex.codecogs.com/gif.latex?e_{\left(K,+\right)}" /> du groupe <img src="https://latex.codecogs.com/gif.latex?\left(\text{K},+\right)" /> (genre le réel 0 si <img src="https://latex.codecogs.com/gif.latex?K=\mathbb{R}" />), est un **élément absorbant**, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right),\left(\%20e_{\left(\text{K},+\right)}\times%20A=N_{n,p,\text{K}}\right)" />, en l'occurence si <img src="https://latex.codecogs.com/gif.latex?K=\mathbb{R}" />, <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\mathbb{R}\right)\right),\left(\%200\times%20A=N_{n,p,\text{K}}\right)" />
+* l'élément neutre <img src="https://latex.codecogs.com/gif.latex?e_{\left(K,+\right)}" /> du groupe <img src="https://latex.codecogs.com/gif.latex?\left(\text{K},+\right)" /> est un **élément absorbant**, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right),\left(\%20e_{\left(\text{K},+\right)}\times%20A=N_{n,p,\text{K}}\right)" />.
+  * en l'occurence si <img src="https://latex.codecogs.com/gif.latex?K=\mathbb{R}" />, on a <img src="https://latex.codecogs.com/gif.latex?e_{\left(\mathbb{R},+\right)}=0" />, et du coup <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\mathbb{R}\right)\right),\left(\%200\times%20A=N_{n,p,\text{K}}\right)" />
 
 * la matrice nulle <img src="https://latex.codecogs.com/gif.latex?N_{n,p,\text{K}}" /> est un **élément absorbant**, c'est a dire que <img src="https://latex.codecogs.com/gif.latex?\forall\left(k,n,p\right)\in\left(\text{K}\times\mathbb{N}\times\mathbb{N}\right),\%20\left(k\cdot%20N_{n,p,\text{K}}=N_{n,p,\text{K}}\right)" />
 
-* 1 est l'élément neutre du magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20\cdot\right)=\left(M_{n,p}\left(\text{K}\right),\%20\times\right)" />, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,\%20p}\left(\text{K}\right),\%201\times%20A=A" />
+* 1 est un élément neutre, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n,\%20p}\left(\text{K}\right),\%201\times%20A=A" />
 
 <je sais pas si c'est un groupe>
 
