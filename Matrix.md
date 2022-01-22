@@ -88,9 +88,11 @@ Elle est:
 * la matrice nulle est l'élément neutre du groupe <img src="https://latex.codecogs.com/gif.latex?\left(M_{a,b}\left(\text{K}\right),\%20+\right)" />
 
 
-
-
 ## Scalar multiplication (*) operator of matrix
+
+<img src="https://latex.codecogs.com/gif.latex?\times\%20or\%20\cdot:_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(\lambda,\%20A\right)\%20\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20A_{res}=\left(a_{i,j}=k\cdot%20A_{i,j}\right)_{._{\in\left[1,n\right]}^{i\in\left[1,n\right]}}}^{\left(\%20\mathbb{R}\%20\times\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right)\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}" />
+
+---
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?\cdot\left(\lambda_{\in\text{K}}\%20,\%20A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> qui prend en argument un scalaire de K et une matrice de n x p sur K, retourne la matrice passée en argument, mais avec tous ses coefficients multipliés par k. C'est à dire que la fonction renvoit une matrice <img src="https://latex.codecogs.com/gif.latex?A_{res}=\left(a_{i,j}=k\cdot%20A_{i,j}\right)_{._{j\in\left[1,p\right]}^{i\in\left[1,n\right]}}" />.
 
