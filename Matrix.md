@@ -42,13 +42,13 @@ alors chaque colonne d'une matrice est un élément de
 
 * Une matrice qui n'a qu'une seule ligne s'appelle une **matrice ligne**
 * Une matrice qui n'a qu'une seule colonne s'appelle une **matrice colonne**
-* Une matrice qui ne contient que des 0 s'appelle une **matrice nulle** (la matrice nulle <img src="https://latex.codecogs.com/gif.latex?N\in%20M_{n,p}\left(\text{K}\right)\%20" /> c'est l'élément neutre du monoïde <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />). On peut noter la matrice nulle de taille n x p sur un corps K, <img src="https://latex.codecogs.com/gif.latex?N_{n,p,\text{K}}" />, et on peut définir une fonction <img src="https://latex.codecogs.com/gif.latex?N_{\varnothing}\left(M_{n,p}\left(\text{K}\right)\right)" /> qui retourne la matrice nulle de l'ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />.
+* Une matrice qui ne contient que des 0 s'appelle une **matrice nulle** (la matrice nulle <img src="https://latex.codecogs.com/gif.latex?N\in%20M_{n,p}\left(\text{K}\right)\%20" /> c'est l'élément neutre du groupe <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />). On peut noter la matrice nulle de taille n x p sur un corps K, <img src="https://latex.codecogs.com/gif.latex?N_{n,p,\text{K}}" />, et on peut définir une fonction <img src="https://latex.codecogs.com/gif.latex?N_{\varnothing}\left(M_{n,p}\left(\text{K}\right)\right)" /> qui retourne la matrice nulle de l'ensemble de matrices <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />.
 
 ## Square matrix
 
 Une matrice est dite carrée si son nombre de lignes est égal à son nombre de colonnes (donc si n = p)
 
-Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" />
+Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" /> c'est à dire, formellement, <img src="https://latex.codecogs.com/gif.latex?\left\{A_{i,j}\%20\%20\left|\%20\%20i=j\right|\right\}" />
 
 ## Equal (=) operator of matrix
 
