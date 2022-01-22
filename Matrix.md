@@ -8,7 +8,7 @@
 <img src="https://latex.codecogs.com/gif.latex?\text{Soit}\%20\text{un}\%20\text{corps}\%20\text{K}=\left(E_K,\%20+,\%20\cdot\right)\%20" />
 <img src="https://latex.codecogs.com/gif.latex?\left(\text{Genre}\%20\text{K}_{\mathbb{C}}=\left(\mathbb{C},\%20+,\%20\cdot\right),\%20\text{K}_{\mathbb{R}}=\left(\mathbb{R},\%20+,\%20\cdot\right),\%20\text{K}_{\mathbb{Q}}=\left(\mathbb{Q},\%20+,\%20\cdot\right),\%20...\right)" />
 
-une matrice est un tableau rectangulaire de <img src="https://latex.codecogs.com/gif.latex?n_{\in\mathbb{N}^{\ast}}" /> lignes sur <img src="https://latex.codecogs.com/gif.latex?p_{\in\mathbb{N}^{\ast}}" /> colonnes contenant des éléments du corps K.
+Une matrice est un tableau rectangulaire de <img src="https://latex.codecogs.com/gif.latex?n_{\in\mathbb{N}^{\ast}}" /> lignes sur <img src="https://latex.codecogs.com/gif.latex?p_{\in\mathbb{N}^{\ast}}" /> colonnes contenant des éléments du corps K.
 
 Chaque élément de K contenu dans la matrice est appelé un "coefficient de la matrice"
 
