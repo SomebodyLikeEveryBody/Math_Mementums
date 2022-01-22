@@ -68,9 +68,15 @@ Cette fonction est associative
 
 <img src="https://latex.codecogs.com/gif.latex?+:_{\%20\%20\%20\%20\%20\%20\%20\%20A\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\%20\%20\%20\%20\%20\%20\%20A}^{M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20}" />
 
+---
+
 La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> renvoit juste la matrice. C'est une fonction identité.
 
 ## Plus (+) binary operator of matrix
+
+<img src="https://latex.codecogs.com/gif.latex?+:_{\%20\%20\%20\%20\%20\%20\left(A_1,A_2\right)\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\%20A_{res}=\left(a_{i,j}=A_{1_{i,j}}+A_{2_{i,j}}\right)_{._{j\in\left[1,p\right]}^{i\in\left[1,n\right]}}}^{\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right)^2\%20\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20}" />
+
+---
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(A_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{a,b}\left(\text{K}\right)}}\right)" /> qui prend 2 matrices pour les additionner, déjà ne fonctionne (n'est définie) que pour des **matrices de même taille**. Ca sert à rien d'additionner des matrices de tailles différentes avec cette fonction + ca ne marche pas.
 
