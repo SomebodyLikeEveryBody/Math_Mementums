@@ -75,6 +75,8 @@ Cette fonction est associative
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?+\left(A_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}\right)" /> renvoit juste la matrice. C'est une fonction identité.
 
+---
+
 ## Plus (+) binary operator of matrix
 
 <img src="https://latex.codecogs.com/gif.latex?+:_{\%20\%20\%20\%20\%20\%20\left(A_1,A_2\right)\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\%20A_{res}=\left(a_{i,j}=A_{1_{i,j}}+A_{2_{i,j}}\right)_{._{j\in\left[1,p\right]}^{i\in\left[1,n\right]}}}^{\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right)^2\%20\%20\rightarrow\%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20}" />
@@ -90,6 +92,7 @@ Elle est:
 * commutative
 * la matrice nulle est l'élément neutre du groupe <img src="https://latex.codecogs.com/gif.latex?\left(M_{a,b}\left(\text{K}\right),\%20+\right)" />
 
+---
 
 ## Scalar multiplication (*) operator of matrix
 
@@ -111,6 +114,7 @@ Elle est
 
 <je sais pas si c'est un groupe>
 
+---
 
 ## Minus (-) unary operator of matrix
 
