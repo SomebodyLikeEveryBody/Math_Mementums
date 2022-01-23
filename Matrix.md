@@ -58,6 +58,8 @@ Une matrice est dite carrée si son nombre de lignes est égal à son nombre de 
 
 Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" /> c'est à dire, formellement, <img src="https://latex.codecogs.com/gif.latex?\left\{A_{i,j}\%20\%20|\%20\%20i=j\right\}" />
 
+---
+
 ## Equal (=) operator of matrix
 
 <img src="https://latex.codecogs.com/gif.latex?=:\%20_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(A,\%20B\right)\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\left\{\text{True}\%20\text{if}\%20A\%20=B,\%20\text{False}\%20\text{if}\%20A\ne%20B\right\}}^{\left(M_{a_{\in\mathbb{N}^{\ast}},b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\times%20M_{c_{\in\mathbb{N}^{\ast}},d_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right)\%20\rightarrow\%20\left\{\text{True},\%20\text{False}\right\}}" />
