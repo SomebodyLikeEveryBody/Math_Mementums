@@ -115,7 +115,7 @@ Elle est
 * l'élément neutre <img src="https://latex.codecogs.com/gif.latex?e_{\left(\text{K},\times\right)}" /> du groupe <img src="https://latex.codecogs.com/gif.latex?\left(\text{K},\times\right)" /> est un **élément neutre** de l'opération, c'est à dire que <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\right),\%20\left(e_{\left(\text{K},\times\right)}\cdot%20A=A\right)" />
   * en l'occurence, si <img src="https://latex.codecogs.com/gif.latex?K=\mathbb{R}" />, on a <img src="https://latex.codecogs.com/gif.latex?e_{\left(\mathbb{R},\times\right)}=1" />, et du coup <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in\left(M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\mathbb{R}\right)\right),\%20\left(1\cdot%20A=A\right)" />
 
-<C'est pas un groupe parce que c'est pas une loi dec composition interne, du coup faudrait investiguer les espaces vectoriels pour voir si ca pourrait coller avec la definition et avoir un truc analogue aux magmas pour parler correctement des elements neutres et des elements absorbants>
+<C'est pas un groupe parce que c'est pas une loi de composition interne, du coup faudrait investiguer les espaces vectoriels pour voir si ca pourrait coller avec la definition et avoir un truc analogue aux magmas pour parler correctement des elements neutres et des elements absorbants>
 
 ---
 
