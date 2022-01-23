@@ -226,6 +226,10 @@ Cette fonction retourne <img src="https://latex.codecogs.com/gif.latex?A\times%2
 * <img src="https://latex.codecogs.com/gif.latex?\left(A_{\in%20M_{n,n}\left(\text{K}\right)}+B_{\in%20M_{n,n}\left(\text{K}\right)}\right)^2=A\%20^2+B^2+\left(A\cdot%20B\right)+\left(B\cdot%20A\right)" /> (car pour rappel, la fonction de multiplication matricielle n'est pas commutative)
 * Une matrice A telle que <img src="https://latex.codecogs.com/gif.latex?\exists%20k\in\mathbb{N}\%20\%20\%20|\%20\%20\%20A^k=N" />, une matrice nulle, est dite **matrice nilpotente**
 
+## Inversion (/) operator of matrix
+
+Vide le compost et les poubelles déjà et ensuite on en parle
+
 
 # Matrix commutation
 
