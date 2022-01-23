@@ -215,7 +215,7 @@ Du coup <img src="https://latex.codecogs.com/gif.latex?I_n\in%20M_{n,n}\left(\te
 
 ## Scalar power (^) operator of matrix
 
-<img src="https://latex.codecogs.com/gif.latex?\wedge:\%20_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(A\%20,\%20\%20\lambda\right)\%20\rightarrow\%20\%20_{\lambda\ne0\%20\rightarrow\%20A\times%20A\times%20A\times...\%20\times%20A=A^{\lambda}}^{\lambda=0\%20\rightarrow\%20I_n}}^{M_{n_{\in\mathbb{N}^{\ast}},n}\left(\text{K}\right)\%20\times\%20\mathbb{N}\%20\rightarrow\%20M_{n,n}\left(\text{K}\right)}" />
+<img src="https://latex.codecogs.com/gif.latex?\wedge:\%20_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(A\%20,\%20\%20\lambda\right)\%20\rightarrow\%20\%20_{\lambda\ne0\%20\rightarrow\left(\%20A\times%20A\times%20A\times...\%20\times%20A\right)=A^{\lambda}}^{\lambda=0\%20\rightarrow\%20I_n}}^{M_{n_{\in\mathbb{N}^{\ast}},n}\left(\text{K}\right)\%20\times\%20\mathbb{N}\%20\rightarrow\%20M_{n,n}\left(\text{K}\right)}" />
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?\wedge\left(A_{\in%20M_{a_{\in\mathbb{N}^{\ast}},a}\left(\text{K}\right)},\%20\lambda_{\in\mathbb{N}}\right)" />  qui prend une et un entier naturel, déjà ne fonctionne (n'est définie) que pour des **matrices carrées**. Ca sert à rien de pow des matrices non carrés avec cette fonction ca ne marche pas.
 
