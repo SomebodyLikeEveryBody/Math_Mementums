@@ -148,6 +148,8 @@ Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex
 
 -> le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" /> est donc **un groupe** (c'est même un groupe commutatif vu que le plus binaire matriciel est commutatif)
 
+---
+
 ## Matrix multiply (*) operator of matrix
 
 <img src="https://latex.codecogs.com/gif.latex?\times%20or\%20\cdot\%20:_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(A_1,\%20A_2\right)\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20A_{res}=\left(a_{i,j}=\sum_{k=1}^pA_{i,k}\times%20A_{k,j}\right)_{._{j\in\left[1,q\right]}^{i\in\left[1,n\right]}}}^{M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\times\%20M_{p,q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\rightarrow\%20M_{n,q}\left(\text{K}\right)}" />
@@ -212,6 +214,7 @@ On note la matrice identité de taille n x n (où n sont des entiers non nuls bi
 
 Du coup <img src="https://latex.codecogs.com/gif.latex?I_n\in%20M_{n,n}\left(\text{K}\right)" />.
 
+---
 
 ## Scalar power (^) operator of matrix
 
@@ -225,6 +228,8 @@ Cette fonction retourne <img src="https://latex.codecogs.com/gif.latex?A\times%2
 * <img src="https://latex.codecogs.com/gif.latex?A^0=I_n" />, la matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,n}\left(\text{K}\right)" />
 * <img src="https://latex.codecogs.com/gif.latex?\left(A_{\in%20M_{n,n}\left(\text{K}\right)}+B_{\in%20M_{n,n}\left(\text{K}\right)}\right)^2=A\%20^2+B^2+\left(A\cdot%20B\right)+\left(B\cdot%20A\right)" /> (car pour rappel, la fonction de multiplication matricielle n'est pas commutative)
 * Une matrice A telle que <img src="https://latex.codecogs.com/gif.latex?\exists%20k\in\mathbb{N}\%20\%20\%20|\%20\%20\%20A^k=N" />, une matrice nulle, est dite **matrice nilpotente**
+
+---
 
 ## Inversion (/) operator of matrix
 
