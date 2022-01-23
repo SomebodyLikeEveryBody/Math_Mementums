@@ -131,9 +131,15 @@ Du coup, toute matrice <img src="https://latex.codecogs.com/gif.latex?A\in%20M_{
 
 ## Minus (-) binary operator of matrix
 
+<img src="https://latex.codecogs.com/gif.latex?-:_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(A_1,\%20A_2\right)\%20\%20\%20\%20\%20\%20\rightarrow\%20A_1+\left(-\left(A_2\right)\right)}^{M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\times\%20M_{n,p}\left(\text{K}\right)\%20\rightarrow\%20M_{n,p}\left(\text{K}\right)}" />
+
 La fonction <img src="https://latex.codecogs.com/gif.latex?-\left(A_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> retourne une matrice <img src="https://latex.codecogs.com/gif.latex?A_{res}=A_1+\left(-1\cdot%20A_2\right)" />
 
-Du coup, <img src="https://latex.codecogs.com/gif.latex?A-A=A+\left(-1\cdot%20A\right)=N" /> où N est la matrice nulle de dimension n x p
+Comme pour le + binaire matriciel, la fonction - binaire matricielle ne prend que 2 matrices **de même taille**.
+
+Du coup, <img src="https://latex.codecogs.com/gif.latex?\forall%20A\in%20M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right),\%20\left(A-A\right)=\left(A+\left(-e_{\left(\text{K},\times\right)}\cdot%20A\right)\right)=N_{n,p,\text{K}}" /> où <img src="https://latex.codecogs.com/gif.latex?N_{n,p,\text{K}}" /> est la matrice nulle de dimension n x p.
+
+Autrement dit, A-A=matrice nulle
 
 Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" />,
 - l'opération <img src="https://latex.codecogs.com/gif.latex?+\left(A_{1_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{a_{\in\mathbb{N}^{\ast}},\%20b_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" />, qui est une loi de composition interne, est associative
@@ -143,6 +149,8 @@ Et du coup, vu que, dans le magma <img src="https://latex.codecogs.com/gif.latex
 -> le magma <img src="https://latex.codecogs.com/gif.latex?\left(M_{n,p}\left(\text{K}\right),\%20+\right)" /> est donc **un groupe** (c'est même un groupe commutatif vu que le plus binaire matriciel est commutatif)
 
 ## Matrix multiply (*) operator of matrix
+
+<img src="https://latex.codecogs.com/gif.latex?\times%20or\%20\cdot\%20:_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\left(A_1,\%20A_2\right)\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20A_{res}=\left(a_{i,j}=\sum_{k=1}^pA_{i,k}\times%20A_{k,j}\right)_{._{j\in\left[1,q\right]}^{i\in\left[1,n\right]}}}^{M_{n_{\in\mathbb{N}^{\ast}},p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\times\%20M_{p,q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)\%20\rightarrow\%20M_{n,q}\left(\text{K}\right)}" />
 
 La fonction <img src="https://latex.codecogs.com/gif.latex?\times\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> ou <img src="https://latex.codecogs.com/gif.latex?\cdot\left(A_{1_{\in%20M_{n_{\in\mathbb{N}^{\ast}},\%20p_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}},\%20A_{2_{\in%20M_{p_{\in\mathbb{N}^{\ast}},\%20q_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)}}\right)" /> est une fonction qui prend en argument **une matrice n x p sur K**, et **une matrice p x q sur K**, et retourne **une matrice n x q sur K**. Ca veut dire que: 
 - cette fonction n'est **pas commutative**
@@ -199,6 +207,10 @@ Formellement, on peut dire qu'une matrice identité d'un ensemble de matrices <i
 **Attention**, si une matrice I est une matrice identité de <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" /> **ça ne veut pas forcément dire** qu'elle-même appartient à  <img src="https://latex.codecogs.com/gif.latex?M_{n,p}\left(\text{K}\right)" />**
 
 En réalité, une matrice identité est **forcément une matrice carrée**, dont tous les coefficients de la diagonale sont égal à 1 et dont tous les autres coefficients sont égal à 0.
+
+On note la matrice identité de taille n x n (où n sont des entiers non nuls bien évidemment) <img src="https://latex.codecogs.com/gif.latex?I_n" />.
+
+Du coup <img src="https://latex.codecogs.com/gif.latex?I_n\in%20M_{n,n}\left(\text{K}\right)" />.
 
 
 ## Scalar power (^) operator of matrix
