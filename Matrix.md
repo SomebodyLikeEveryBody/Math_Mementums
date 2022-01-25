@@ -56,6 +56,26 @@ alors chaque colonne d'une matrice est un élément de
 
 Une matrice est dite carrée si son nombre de lignes est égal à son nombre de colonnes (donc si n = p)
 
+On peut déclarer une matrice carrée classiquement en faisant:
+
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_{n,n}\left(\text{K}\right)" />
+
+genre:
+
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_{4,4}\left(\mathbb{R}\right)" />
+
+mais pour aller plus vite on peut ne spécifier qu'un seul indice, genre:
+
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_n\left(\text{K}\right)" />
+
+par exemple:
+
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20A\in%20M_{4}\left(\mathbb{R}\right)" />
+
+Moi je trouve pas ça ultra intuitif mais pourquoi pas.
+
+Du coup le terme <img src="https://latex.codecogs.com/gif.latex?M_{n_{\in\mathbb{N}^{\ast}}}\left(\text{K}\right)" /> désigne l'ensemble des matrices carrées n x n sur K
+
 Dans une matrice carrée, il y a un truc particulier qu'on appèlle la **diagonale de la matrice** qui est l'ensemble des éléments <img src="https://latex.codecogs.com/gif.latex?\left\{A_{1,1},\%20A_{2,2},\%20A_{3,3},\%20...\%20,\%20A_{n,n}\right\}" /> c'est à dire, formellement, <img src="https://latex.codecogs.com/gif.latex?\left\{A_{i,j}\%20\%20|\%20\%20i=j\right\}" />
 
 ---
