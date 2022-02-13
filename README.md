@@ -32,3 +32,13 @@ Math Mementums. Just my way on the long math road so it might have mistakes.
 
 <img src="https://latex.codecogs.com/gif.latex?\text{so}\%20\text{we}\%20\text{have}\%20\left(x_2=x_1\cos\left(\theta\right)-y_1\sin\left(\theta\right)\right)\%20\wedge\%20\left(y_2=x_1\sin\left(\theta\right)+y_1\cos\left(\theta\right)\right)" />
 <img src="https://latex.codecogs.com/gif.latex?\Leftrightarrow\%20M_2=M_1\cdot\left[_{\sin\left(\theta\right);\%20\cos\left(\theta\right)}^{\cos\left(\theta\right);\%20-\sin\left(\theta\right)}\right]" />
+
+---
+
+<img src="https://latex.codecogs.com/gif.latex?\text{Let}\%20f=\%20\text{f}^{\circ}\left(_{\%20\%20x\%20\%20\rightarrow\%20f\left(x\right)}^{E_{\subseteq\mathbb{R}}\%20\rightarrow\%20F_{\subseteq\mathbb{R}}}\right)" />
+
+<img src="https://latex.codecogs.com/gif.latex?\text{d}=\text{f}^{\circ}\left(_{\%20\%20\%20\%20f\left(x\right)\%20\%20\rightarrow\%20\lim_{h\rightarrow0}\left(f\left(x+h\right)-f\left(x\right)\right)}^{\left(E_{\text{d}}\right)_{\subseteq\mathbb{R}}\%20\%20\%20\rightarrow\%20\left(I_{\text{d}}\right)_{\subseteq\mathbb{R}}}\right)\%20\Rightarrow\text{d}\left(f\left(x\right)\right)=\lim_{h\rightarrow0}\left(f\left(x+h\right)-f\left(x\right)\right)" />
+
+<img src="https://latex.codecogs.com/gif.latex?\Rightarrow\left[\text{d}\left(v\right)=\text{d}_v=\lim_{h\rightarrow0}\left(\left(v+h\right)-v\right)\right]" />
+
+<img src="https://latex.codecogs.com/gif.latex?\text{d}=\text{f}^{\circ}\left(_{\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20f\%20\%20\%20\%20\%20\%20\%20\%20\%20\%20\rightarrow\%20\text{f}^{\circ}\left(_{\%20\%20\%20x\%20\%20\rightarrow\%20\text{d}\left(f\left(x\right)\right)}^{E_{\subseteq\mathbb{R}}\%20\%20\rightarrow\%20F_{\subseteq\mathbb{R}}}\right)}^{\left(E_{\text{d}}\right)_{\subseteq\left\{E_{\subseteq\mathbb{R}}\%20\rightarrow\%20F_{\subseteq\mathbb{R}}\right\}}\%20\rightarrow\%20\left(I_{\text{d}}\right)_{\subseteq\left\{E_{\subseteq\mathbb{R}}\%20\rightarrow\%20F_{\subseteq\mathbb{R}}\right\}}}\right)" />
