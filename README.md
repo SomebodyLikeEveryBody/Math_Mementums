@@ -2,6 +2,7 @@
 Math Mementums. Just my way on the long math road so it might have mistakes.
 
 Go to https://somebodylikeeverybody.github.io/Math_Mementums/[pageName]
+
 Example: https://somebodylikeeverybody.github.io/Math_Mementums/integrals.html
 
 # Test:
